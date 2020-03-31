@@ -35,7 +35,7 @@ I am not sure exactly what I have been ill with since my condition wasn't consid
 * Things will likely be up and down. You might feel well one hour and then feel bad the next. Rest plenty and monitor yourself carefully.
 * Do daily light yoga and breathing exercises, so long as you are able to. This will help you monitor your breathing while developing your breathing capacity. These Qigong exercises have been really helpful:
 
-[![5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome](https://img.youtube.com/vi/qViH3a4S-Uk/0.jpg)](https://www.youtube.com/watch?v=qViH3a4S-Uk)
+[![5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome](https://img.youtube.com/vi/qViH3a4S-Uk/0.jpg)](https://www.youtube.com/watch?v=qViH3a4S-Uk)<br>
 *5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome*
 
 ## My Log:
