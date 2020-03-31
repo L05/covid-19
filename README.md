@@ -165,8 +165,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Meds: Umcka Cold Care (x3)
 * Exercised for an hour today, more easily winded, but was OK
 
-## Tuesday, March 31 (Day 14)
-
+### Tuesday, March 31 (Day 14)
 
 * Slightly shallow breathing  
 * Slight chest tightness 
