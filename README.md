@@ -160,7 +160,16 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 
 * Slightly shallow breathing  
 * Slight chest tightness 
+* Occasional very light dry cough
 * Breathing capacity at 90%
 * Meds: Umcka Cold Care (x3)
 * Exercised for an hour today, more easily winded, but was OK
 
+## Tuesday, March 31 (Day 14)
+
+
+* Slightly shallow breathing  
+* Slight chest tightness 
+* Occasional very light dry cough
+* Breathing capacity at 90%
+* Meds: Umcka Cold and Flu
