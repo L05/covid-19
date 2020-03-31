@@ -171,4 +171,4 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Slight chest tightness 
 * Occasional very light dry cough
 * Breathing capacity at 90%
-* Meds: Umcka Cold and Flu
+* Meds: Umcka Cold and Flu (x2), Mucinex 12 hour (midday)
