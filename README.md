@@ -1,6 +1,5 @@
 # My experience with an undiagnosed illness during the COVID-19 pandemic.
-
-*Before starting, I want it to be clear that I am not a healthcare professional, and if you are having any medical emergency, please contact your doctor or 911 ASAP!*
+*NOTE: I want to be clear that I am not a healthcare professional. If you are having any medical emergency, please contact your doctor or 911 ASAP!*
 
 A few friends have suggested I share this in case it's helpful to anyone feeling similarly. I am not sure exactly what I have been ill with since my condition wasn't considered bad or critical enough to be tested for COVID-19, and I wasn't considered at risk (despite history of bad asthma as a child). I can say it has been unlike anything I've been sick with before, specifically with how it has affected my breathing. Let me know if you have any questions about any of this!  
 
