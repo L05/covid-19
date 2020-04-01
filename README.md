@@ -3,7 +3,12 @@
 
 A few friends have suggested I share this in case it's helpful to anyone feeling similarly. I am not sure exactly what I have been ill with since my condition wasn't considered bad or critical enough to be tested for COVID-19, and I wasn't considered at risk (despite history of bad asthma as a child). I can say it has been unlike anything I've been sick with before, specifically with how it has affected my breathing. Let me know if you have any questions about any of this!  
 
-## My symptoms, in order of onset:
+* [My symptoms, in order of onset](#symptoms)
+* [Medicine/Supplies](#supplies)
+* [Tips](#tips)
+* [My Log](#log)
+
+## My symptoms, in order of onset<a name="symptoms"></a>
 
 * Post nasal drip
 * Sore throat 
@@ -14,7 +19,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Dry cough 
 * Headache
 
-## Medicine/Supplies:
+## Medicine/Supplies<a name="supplies"></a>
 
 * Vitamin C/Vitamin D3 (daily for immune boost) 
 * Zicam/Zinc dissolving lozenges (taken at any signs of sore throat or irritation) 
@@ -26,7 +31,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Neti pot (was helpful to me with managing post nasal drip) 
 * Lots of water + coconut water/pedialyte as needed for hydration
 
-## Tips:
+## Tips<a name="tips"></a>
 
 * Keep a daily symptoms and medications log. All interactions with a doctor will likely be over telephone, and this will help you be able to more clearly communicate with them as well as have a sense of timeline. I have shared mine below.
 * If you have post nasal drip, do whatever it takes to keep it from getting to your chest, where it could develop into pneumonia. Dry cough will likely be unproductive; clear throat and spit if you have to. Mucinex, hot tea with honey, steamy showers, humidifier, and lots of hydration are all things to help keep mucus loose.
@@ -37,7 +42,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 [![5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome](https://img.youtube.com/vi/qViH3a4S-Uk/0.jpg)](https://www.youtube.com/watch?v=qViH3a4S-Uk)<br>
 *5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome*
 
-## My Log:
+## My Log<a name="log"></a>
 
 ### Sunday, 3/15 to Tuesday, 3/17 
 
