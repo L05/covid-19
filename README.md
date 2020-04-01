@@ -33,7 +33,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 
 ## Tips<a name="tips"></a>
 
-* Stay home and isolate as best as possible!
+* Stay home and isolate as best as possible! If you aren't sure if you have it, assume you may be infected and are highly contagious.
 * Keep a daily symptoms and medications log. All interactions with a doctor will likely be over telephone, and this will help you be able to more clearly communicate with them as well as have a sense of timeline. I have shared mine below.
 * If you have post nasal drip, do whatever it takes to keep it from getting to your chest, where it could develop into pneumonia. Dry cough will likely be unproductive; clear throat and spit if you have to. Mucinex, hot tea with honey, steamy showers, humidifier, and lots of hydration are all things to help keep mucus loose.
 * Get what medicines (and food) you need together at home, if possible: I was told that despite having difficulty breathing, unless I was choking or having trouble standing or finishing sentences, or unless I developed a high grade fever, I was considered mild and told not to come in.
