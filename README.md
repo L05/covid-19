@@ -179,3 +179,9 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Breathing capacity at 90%
 * Meds: Umcka Cold and Flu (x2), Mucinex 12 hour (midday)
 * Exercised for an hour today, more easily winded, but was OK
+
+### Wednesday, April 1 (Day 15)
+
+* Breathing capacity at 95% in morning
+* Slight chest tightness and shallow breathing in the late afternoon (85%)
+* Occasional very light dry cough
