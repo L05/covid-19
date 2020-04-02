@@ -40,10 +40,25 @@ This is a list of resources I've compiled and shared with my family as they were
 * [Coronavirus: How to Clean Your Groceries and Stay Sage When Food Shopping - The Independent](https://www.independent.co.uk/life-style/coronavirus-spread-food-shopping-clean-packaging-home-delivery-spread-safe-a9434726.html)
 * [Your coronavirus grocery questions, answered by experts - Vox](https://www.vox.com/the-goods/2020/3/30/21199714/grocery-store-delivery-coronavirus-safe-empty)
 
+
 ## Information on Masks
 
 * [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic? - ResearchGate](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
 * [DIY Face Mask Patterns - Filter Pocket & Adjustable Ties!](https://jennifermaker.com/face-mask-patterns-cricut/)
+
+
+## Video Conferencing
+
+### Security/Privacy
+
+* [Protecting Privacy in the Age of Coronavirus: Digital Tools for Nonprofits - Nonprofit Quarterly](https://nonprofitquarterly.org/protecting-privacy-in-the-age-of-coronavirus-digital-tools-for-nonprofits/)
+* [Encryption for Meetings - Zoom Help Center](https://support.zoom.us/hc/en-us/articles/201362723-Encryption-for-Meetings?mobile_site=true)
+* [Jitsi video conferencing – open source and privacy enhancing - Data Ethics](https://dataethics.eu/interview-emil-ivov-jitsi-video-conferencing-snowden/)
+
+### Education
+
+* [Please do a bad job of putting your courses online - Rebecca Barret-Fox](https://anygoodthing.com/2020/03/12/please-do-a-bad-job-of-putting-your-courses-online/)
+* [Real learning in a virtual classroom is difficult - Ars Technica](https://arstechnica.com/staff/2020/03/a-crash-course-in-virtual-teaching-real-learning-achieved/)
 
 
 ## Good news!
