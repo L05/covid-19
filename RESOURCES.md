@@ -37,7 +37,7 @@ This is a list of resources I've compiled and shared with my family as they were
 * [These Coronavirus Exposures Might Be the Most Dangerous - NYTimes](https://www.nytimes.com/2020/04/01/opinion/coronavirus-viral-dose.html)
 * [Everyone Thinks They’re Right About Masks - The Atlantic](https://www.theatlantic.com/health/archive/2020/04/coronavirus-pandemic-airborne-go-outside-masks/609235/)
 * [That Discomfort You’re Feeling Is Grief - Harvard Business Review](https://hbr.org/amp/2020/03/that-discomfort-youre-feeling-is-grief)
-* [Coronavirus: How to Clean Your Groceries and Stay Sage When Food Shopping - The Independent](https://www.independent.co.uk/life-style/coronavirus-spread-food-shopping-clean-packaging-home-delivery-spread-safe-a9434726.html)
+* [Coronavirus: How to Clean Your Groceries and Stay Safe When Food Shopping - The Independent](https://www.independent.co.uk/life-style/coronavirus-spread-food-shopping-clean-packaging-home-delivery-spread-safe-a9434726.html)
 * [Your coronavirus grocery questions, answered by experts - Vox](https://www.vox.com/the-goods/2020/3/30/21199714/grocery-store-delivery-coronavirus-safe-empty)
 
 
