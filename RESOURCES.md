@@ -5,7 +5,7 @@
 This is a list of resources I've compiled and shared with my family as they were having trouble finding reliable information.
 
 ## Safety Measures
-*(based on what is known at this time)*
+*This is my personal approach and is based on what is known at this time.*
 
 * Stay home and limit exposure as much as possible, especially if you are at risk (age, health conditions, etc.).
 * Wear a mask if there’s any chance at all you will be around people or in an indoor environment where people may have recently been. Sufficient filtration is better (<= 0.1 micron), acknowledging that those most in need of these are healthcare professionals. Homemade masks are better than none, particularly to prevent infecting others and train one's self to not touch the face.
