@@ -8,6 +8,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * [Medicine/Supplies](#supplies)
 * [Tips](#tips)
 * [My Log](#log)
+* [Additional Resources](RESOURCES.md)
 
 ## My symptoms, in order of onset<a name="symptoms"></a>
 
