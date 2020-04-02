@@ -28,7 +28,8 @@ This is a list of resources I've compiled and shared with my family as they were
 * [Coronavirus Resource Center - Harvard Medical School](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
 * [Coronavirus (COVID-19) - CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [Coronavirus - World Health Organization](https://www.who.int/health-topics/coronavirus)
-*(While critically important resources, some of the advice of the CDC and WHO has seemingly understated the importance of masks and the aerosol nature of the virus and has changed their information on this over recent time.)*
+
+*(While critically important resources, some of the advice of the CDC and WHO has seemingly understated the importance of masks and the aerosol nature of the virus and they have been recently shifting or seem to be expected to shift their stance on this in the near future.)*
 
 
 ## Articles From Reputable Sources
