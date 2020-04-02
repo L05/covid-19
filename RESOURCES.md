@@ -1,3 +1,5 @@
+[Home](README.md)
+
 # Resources
 
 This is a list of resources I've compiled and shared with my family as they were having trouble finding reliable information.
