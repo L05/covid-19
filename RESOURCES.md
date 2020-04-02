@@ -8,7 +8,7 @@ This is a list of resources I've compiled and shared with my family as they were
 *(based on what is known at this time)*
 
 * Stay home and limit exposure as much as possible, especially if you are at risk (age, health conditions, etc.).
-* Wear a mask if there’s any chance at all you will be around people or indoors where people have recently been. More filtration is better, acknowledging that those in most need are healthcare professionals.
+* Wear a mask if there’s any chance at all you will be around people or in an indoor environment where people may have recently been. Sufficient filtration is better (<= 0.1 micron), acknowledging that those most in need of these are healthcare professionals. Homemade masks are better than none, particularly to prevent infecting others and train one's self to not touch the face.
 * Keep at least 10 ft from people (recommended is absolute minimum 6 ft). Limit time in proximity as much as possible.
 * Avoid any indoor environment with inadequate ventilation.
 * Wash your hands regularly, especially when in contact with any possibly contagion.
@@ -39,6 +39,11 @@ This is a list of resources I've compiled and shared with my family as they were
 * [That Discomfort You’re Feeling Is Grief - Harvard Business Review](https://hbr.org/amp/2020/03/that-discomfort-youre-feeling-is-grief)
 * [Coronavirus: How to Clean Your Groceries and Stay Sage When Food Shopping - The Independent](https://www.independent.co.uk/life-style/coronavirus-spread-food-shopping-clean-packaging-home-delivery-spread-safe-a9434726.html)
 * [Your coronavirus grocery questions, answered by experts - Vox](https://www.vox.com/the-goods/2020/3/30/21199714/grocery-store-delivery-coronavirus-safe-empty)
+
+## Information on Masks
+
+* [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic? - ResearchGate](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic)
+* [DIY Face Mask Patterns - Filter Pocket & Adjustable Ties!](https://jennifermaker.com/face-mask-patterns-cricut/)
 
 
 ## Good news!
