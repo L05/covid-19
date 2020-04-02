@@ -181,6 +181,8 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Meds: Umcka Cold and Flu (x2), Mucinex 12 hour (midday)
 * Exercised for an hour today, more easily winded, but was OK
 
+### RECOVERY
+
 ### Wednesday, April 1 (Day 15)
 
 * Breathing capacity at 95% in morning
