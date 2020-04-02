@@ -54,6 +54,9 @@ This is a list of resources I've compiled and shared with my family as they were
 * [Protecting Privacy in the Age of Coronavirus: Digital Tools for Nonprofits - Nonprofit Quarterly](https://nonprofitquarterly.org/protecting-privacy-in-the-age-of-coronavirus-digital-tools-for-nonprofits/)
 * [Encryption for Meetings - Zoom Help Center](https://support.zoom.us/hc/en-us/articles/201362723-Encryption-for-Meetings?mobile_site=true)
 * [Jitsi video conferencing – open source and privacy enhancing - Data Ethics](https://dataethics.eu/interview-emil-ivov-jitsi-video-conferencing-snowden/)
+* [The best alternatives to Zoom for videoconferencing - The Verge](https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi)
+* [What Zoom doesn’t understand about the Zoom backlash - The Verge](https://www.theverge.com/interface/2020/4/2/21202984/zoom-backlash-zoombombing-encryption-exploits-consumerization-of-it)
+* [Zoom Meetings Aren't End-to-End Encrypted, Despite Misleading Marketing - The Intercept](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)
 
 ### Education
 
