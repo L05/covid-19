@@ -1,3 +1,4 @@
+
 # My experience with an undiagnosed illness during the COVID-19 pandemic.
 *NOTE: I want to be clear that I am not a healthcare professional. If you feel you are having a medical emergency, please contact your doctor or 911 ASAP!*
 
@@ -185,3 +186,4 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Breathing capacity at 95% in morning
 * Slight chest tightness and shallow breathing in the late afternoon (85%)
 * Occasional very light dry cough
+* Exercise: Yoga (20 mins); HIIT (15 mins), felt winded after, but am OK
