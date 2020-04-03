@@ -11,10 +11,10 @@ This is a list of resources I've compiled and shared with my family as they were
 * Wear a mask if there’s any chance at all you will be around people or in an indoor environment where people may have recently been. Sufficient filtration is better (<= 0.1 micron), acknowledging that those most in need of these are healthcare professionals. Homemade masks are better than none, particularly to prevent infecting others and train one's self to not touch the face.
 * Keep at least 10 ft from people (recommended is absolute minimum 6 ft). Limit time in proximity as much as possible.
 * Avoid any indoor environment with inadequate ventilation.
-* Wash your hands regularly, especially when in contact with any possibly contagion.
+* Wash your hands regularly, especially when in contact with any possible contagion.
 * Do not touch your face. Use fresh tissue if necessary or be certain hands are thoroughly washed.
 * Wipe down all incoming groceries and packaging before bringing into house. Recommended to have staging area for this and be methodical.
-* For grocery shopping, use delivery if possible. Otherwise only go if necessary; have a list ready and be as fast and efficient as possible to limit possible exposure to air. Go in off peak hours.
+* For grocery shopping, use delivery if possible. Otherwise only go if necessary; have a list ready and be as fast and efficient as possible to limit possible exposure to aerosols and surfaces. Go in off peak hours.
 * Keep a daily log of health. Included are symptoms, meds, and exercise. It’s important to stay active and keep the immune system healthy.
 * Stay connected with friends and loved ones via chat, phone, and video. ❤️
 * Limit news to a healthy amount and care for your mind. This is also an important part of health.
