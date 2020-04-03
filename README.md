@@ -37,7 +37,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 
 * Stay home and isolate as best as possible! If you aren't sure if you have it, assume you may be infected and are highly contagious.
 * Keep a daily symptoms and medications log. All interactions with a doctor will likely be over telephone, and this will help you be able to more clearly communicate with them as well as have a sense of timeline. I have shared mine below.
-* If you have post nasal drip, do whatever it takes to keep it from getting to your chest, where it could develop into pneumonia. Dry cough will likely be unproductive; clear throat and spit if you have to. Mucinex, hot tea with honey, steamy showers, humidifier, and lots of hydration are all things to help keep mucus loose.
+* If you have post nasal drip, do whatever it takes to keep it from getting to your chest where it could develop into pneumonia. Dry cough will likely be unproductive; clear throat and spit if you have to. Mucinex, hot tea with honey, steamy showers, humidifier, and lots of hydration are all things to help keep mucus loose.
 * Get what medicines (and food) you need together at home, if possible: I was told that despite having difficulty breathing, unless I was choking or having trouble standing or finishing sentences, or unless I developed a high grade fever, I was considered mild and told not to come in.
 * Things will likely be up and down. You might feel well one hour and then feel bad the next. Rest plenty and monitor yourself carefully. If you feel you are in danger, call a healthcare professional.
 * Do daily light yoga and breathing exercises, so long as you are able to. This will help you monitor your breathing while developing your breathing capacity. These Qigong exercises have been really helpful:
@@ -46,6 +46,8 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 *5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome*
 
 ## My Log<a name="log"></a>
+
+### BEGIN ISOLATION
 
 ### Sunday, 3/15 to Tuesday, 3/17 
 
@@ -190,3 +192,10 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Slight chest tightness and shallow breathing in the late afternoon (85%)
 * Occasional very light dry cough
 * Exercise: Yoga (20 mins); HIIT (15 mins), felt winded after, but am OK
+
+### Thursday, April 2 (Day 16)
+
+* Breathing capacity at 95% most of the day
+* Faint throat irritation
+* Meds: Zicam
+* Exercise: 2 mile walk, felt slightly winded by end; played Just Dance 2020 (60 mins), fun!
