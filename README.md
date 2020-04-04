@@ -199,3 +199,11 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Faint throat irritation
 * Meds: Zicam
 * Exercise: 2 mile walk, felt slightly winded by end; played Just Dance 2020 (60 mins), fun!
+
+### Friday, April 3 (Day 17)
+
+* Woke up with some nasal congestion, able to clear by blowing
+* Some light, dry coughing
+* Some tightness/shallowness in morning
+* Breathing capacity 85-90%
+* Meds: Umcka Cold and Flu (x2)
