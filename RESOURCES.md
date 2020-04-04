@@ -23,6 +23,7 @@ This is a list of resources I've compiled and shared with my family as they were
 ## Definitively Informative Sources
 
 * [What Is Coronavirus? - John Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus)
+* [The new coronavirus might spread when people talk, but scientists say masks can help - LA Times](https://www.latimes.com/science/story/2020-04-04/coronavirus-might-spread-through-talking-or-breathing)
 * [I’ve been diagnosed with the new coronavirus disease, COVID-19. What should I expect? - John Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/diagnosed-with-covid-19-what-to-expect)
 * [How Can I Protect Myself (and Others) from the New Coronavirus and COVID-19? - John Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/how-can-i-protect-myself-from-coronavirus)
 * [Coronavirus Resource Center - Harvard Medical School](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
@@ -35,6 +36,7 @@ This is a list of resources I've compiled and shared with my family as they were
 ## Articles From Reputable Sources
 
 * [These Coronavirus Exposures Might Be the Most Dangerous - NYTimes](https://www.nytimes.com/2020/04/01/opinion/coronavirus-viral-dose.html)
+* [The new coronavirus might spread when people talk, but scientists say masks can help - LA Times](https://www.latimes.com/science/story/2020-04-04/coronavirus-might-spread-through-talking-or-breathing)
 * [Everyone Thinks They’re Right About Masks - The Atlantic](https://www.theatlantic.com/health/archive/2020/04/coronavirus-pandemic-airborne-go-outside-masks/609235/)
 * [That Discomfort You’re Feeling Is Grief - Harvard Business Review](https://hbr.org/amp/2020/03/that-discomfort-youre-feeling-is-grief)
 * [Coronavirus: How to Clean Your Groceries and Stay Safe When Food Shopping - The Independent](https://www.independent.co.uk/life-style/coronavirus-spread-food-shopping-clean-packaging-home-delivery-spread-safe-a9434726.html)
