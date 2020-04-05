@@ -199,6 +199,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Faint throat irritation
 * Meds: Zicam
 * Exercise: 2 mile walk, felt slightly winded by end; played Just Dance 2020 (60 mins), fun!
+* Spoke with doctor in AM, reiterated likely mild CV19 case, encouraged me to contact for possible testing if my condition worsened 
 
 ### Friday, April 3 (Day 17)
 
@@ -207,3 +208,15 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Some tightness/shallowness in morning
 * Breathing capacity 85-90%
 * Meds: Umcka Cold and Flu (x2)
+
+### Saturday, April 4 (Day 18)
+
+* Breathing capacity 90%
+* Occasional light, dry coughing
+* Meds: Umcka Cold and Flu (x1)
+* Exercise: played Just Dance 2020 (90 mins); slightly more easily winded, but much needed fun
+
+### Sunday, April 5 (Day 19)
+
+* Breathing capacity 90-95%
+
