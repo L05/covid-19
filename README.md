@@ -156,7 +156,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Occasional dry cough
 * Evening: emerging sore throat
 * Meds: Umcka Cold and Flu (x3), Mucinex 12 hour (AM), Zicam
-* Exercised for an hour today, more easily winded, but was OK
+* Exercise: strength training (60 mins), more easily winded, but was OK
  
 ### Sunday, March 29 (Day 12) 
 
@@ -164,7 +164,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Occasional light dry cough  
 * Fleeting moments of chest tightness  
 * Meds: Zicam, Umcka Cold and Flu (x2) 
-* Practice dance for an hour today, more easily winded, but was OK
+* Exercise: practice dance (60 mins), more easily winded, but was OK
 
 ### Monday, March 30 (Day 13) 
 
@@ -173,7 +173,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Occasional very light dry cough
 * Breathing capacity at 90%
 * Meds: Umcka Cold Care (x3)
-* Exercised for an hour today, more easily winded, but was OK
+* Exercise: strength training, more easily winded, but was OK
 
 ### Tuesday, March 31 (Day 14)
 
@@ -182,7 +182,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Occasional very light dry cough
 * Breathing capacity at 90%
 * Meds: Umcka Cold and Flu (x2), Mucinex 12 hour (midday)
-* Exercised for an hour today, more easily winded, but was OK
+* Exercise: strength training (60 mins), more easily winded, but was OK
 
 ### RECOVERY
 
@@ -214,9 +214,12 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Breathing capacity 90%
 * Occasional light, dry coughing
 * Meds: Umcka Cold and Flu (x1)
-* Exercise: played Just Dance 2020 (90 mins); slightly more easily winded, but much needed fun
+* Exercise: played Just Dance 2020 (90 mins), slightly winded, but much needed fun
 
 ### Sunday, April 5 (Day 19)
 
-* Breathing capacity 90-95%
+* Breathing capacity 85-95%
+* Occasional light, dry cough, but less frequent(?)
+* Meds: Umcka Cold and Flu (x1)
+* Exercise: strength training/HIIT (60 mins), slightly winded
 
