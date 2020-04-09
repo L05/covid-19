@@ -67,11 +67,11 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 ### Thursday, 3/19 (Day 2) 
 
 * Diarrhea
-* Shortness of breath late at night into Friday morning, shallow breathing 
+* Shortness of breath late at night into Friday morning, shallow breathing; breathing capacity 50%
 
 ### Friday, 3/20 (Day 3) 
 
-* Shortness of breath, shallow breathing, chest kind of tight 
+* Shortness of breath, shallow breathing, chest kind of tight; breathing capacity 50%
 * Fatigue 
 * Diarrhea 
 * Occasional nausea or lightheaded 
