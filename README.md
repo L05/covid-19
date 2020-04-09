@@ -223,3 +223,21 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Meds: Umcka Cold and Flu (x1)
 * Exercise: strength training/HIIT (60 mins), slightly winded
 
+### Monday, April 6 (Day 20)
+
+* Breathing capacity 90%
+* Infrequent light, dry cough
+* Meds: Umcka Cold and Flu (x1)
+* Exercise: HIIT (20 mins)
+
+### Tuesday, April 7 (Day 21)
+
+* Breathing capacity 90-95%
+* Infrequent light, dry cough 
+
+### Wednesday, April 8 (Day 22)
+
+* Breathing capacity 95%
+* Slight sore throat
+* Meds: Zicam (x3)
+* Exercise: strength training/HIIT (60 mins)
