@@ -248,3 +248,16 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Slight congestion in early morning
 * Brief breathing capacity reduction in early morning (60%)
 * Otherwise breathing capacity 95%
+
+### Friday, April 10 (Day 24)
+
+* Breathing capacity 95%
+* Exercise: brief walk (20 mins)
+
+### Saturday, April 11 (Day 25)
+
+* Woke up Breathing capacity at 85%
+* Went for 60 min walk, felt winded
+* Breathing capacity at 50% in afternoon, had to lay down
+* Meds: Umcka Cold and Flu (x1)
+* Exercise: walk (60 mins)
