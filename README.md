@@ -1,4 +1,3 @@
-
 # My experience with an undiagnosed illness during the COVID-19 pandemic.
 *NOTE: I want to be clear that I am not a healthcare professional. If you feel you are having a medical emergency, please contact your doctor or 911 ASAP!*
 
@@ -256,8 +255,8 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 
 ### Saturday, April 11 (Day 25)
 
-* Woke up Breathing capacity at 85%
-* Went for 60 min walk, felt winded
-* Breathing capacity at 50% in afternoon, had to lay down
-* Meds: Umcka Cold and Flu (x1)
-* Exercise: walk (60 mins)
+* Woke up with breathing capacity at 85%
+* Breathing capacity at 50% in afternoon after walk, had to lay down
+* Felt improved in evening, breathing capacity 80-85%
+* Meds: Umcka Cold and Flu (x2)
+* Exercise: walk (60 mins), felt noticeably winded; yoga (25 mins), slightly winded
