@@ -260,3 +260,10 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * Felt improved in evening, breathing capacity 80-85%
 * Meds: Umcka Cold and Flu (x2)
 * Exercise: walk (60 mins), felt noticeably winded; yoga (25 mins), slightly winded
+
+### Sunday, April 12 (Day 26)
+
+* Breathing capacity 90%
+* Faintt throat irritation in midday
+* Meds: Zicam (x1)
+* Exercise: strength training (75 mins); Just Dance (60 mins)
