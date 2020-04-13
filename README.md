@@ -40,7 +40,7 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 * If you have post nasal drip, do whatever it takes to keep it from getting to your chest where it could develop into pneumonia. Dry cough will likely be unproductive; clear throat and spit if you have to. Mucinex, hot tea with honey, steamy showers, humidifier, and lots of hydration are all things to help keep mucus loose.
 * Get what medicines (and food) you need together at home, if possible: I was told that despite having difficulty breathing, unless I was choking or having trouble standing or finishing sentences, or unless I developed a high grade fever, I was considered mild and told not to come in.
 * Things will likely be up and down. You might feel well one hour and then feel bad the next. Rest plenty and monitor yourself carefully. If you feel you are in danger, call a healthcare professional.
-* Do daily light yoga and breathing exercises, so long as you are able to. This will help you monitor your breathing while developing your breathing capacity. I didn't have the presence of mind to write this while most sick, but I was doing these every day as much as possible while sick and I am certain it helped. These Qigong exercises have been really helpful:
+* Do daily light yoga and breathing exercises, so long as you are able to. This will help you monitor your breathing while developing your breathing capacity. I didn't have the presence of mind to write this between onset and recovery, but I was doing yoga and breathing exercises each day I was able, and I am certain it helped. These Qigong breathing exercises have been really helpful:
 
 [![5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome](https://img.youtube.com/vi/qViH3a4S-Uk/0.jpg)](https://www.youtube.com/watch?v=qViH3a4S-Uk)<br>
 *5 Shaolin Qi Gong Breath Exercises to Strengthen the Lungs #StayHome*
@@ -264,6 +264,6 @@ A few friends have suggested I share this in case it's helpful to anyone feeling
 ### Sunday, April 12 (Day 26)
 
 * Breathing capacity 90%
-* Faintt throat irritation in midday
+* Faint throat irritation in midday
 * Meds: Zicam (x1)
 * Exercise: strength training (75 mins); Just Dance (60 mins)
